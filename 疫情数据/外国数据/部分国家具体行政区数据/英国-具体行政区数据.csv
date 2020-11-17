@@ -1,0 +1,5 @@
+name,date,nameMap,isUpdated,confirmAdd,confirmAddCut,confirm,suspect,dead,heal
+英格兰,07.22,England,False,0,0,254519,0,40828,1414
+苏格兰,07.22,Scotland,False,0,0,18474,0,2491,0
+威尔士,07.22,Wales,False,0,0,16965,0,1547,0
+北爱尔兰,07.22,Northern Ireland,False,0,0,5859,0,556,0

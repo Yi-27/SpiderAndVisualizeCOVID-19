@@ -1,0 +1,33 @@
+name,date,nameMap,isUpdated,confirmAdd,confirmAddCut,confirm,suspect,dead,heal
+地区待确认,03.30,,False,0,0,19857,0,2757,13911
+德黑兰省,03.23,Tehran,False,0,0,5098,0,0,0
+伊斯法罕省,03.23,Esfahan,False,0,0,1979,0,0,0
+马赞德兰省,03.23,Mazandaran,False,0,0,1700,0,0,0
+吉兰省,03.23,Gilan,False,0,0,1191,0,0,0
+库姆省,03.23,Qom,False,0,0,1178,0,0,0
+厄尔布尔士省,03.23,Alborz,False,0,0,1177,0,0,0
+中央省,03.23,Markazi,False,0,0,882,0,0,0
+拉扎维霍拉桑省,03.23,Razavi Khorasan,False,0,0,858,0,0,0
+东阿塞拜疆省,03.23,East Azarbaijan,False,0,0,813,0,0,0
+亚兹德省,03.23,Yazd,False,0,0,725,0,0,0
+加兹温省,03.23,Qazvin,False,0,0,669,0,0,0
+塞姆南省,03.23,Semnan,False,0,0,645,0,0,0
+法尔斯省,03.23,Fars,False,0,0,505,0,0,0
+洛雷斯坦省,03.23,Lorestan,False,0,0,476,0,0,0
+胡泽斯坦省,03.23,Khuzestan,False,0,0,444,0,0,0
+西阿塞拜疆省,03.23,West Azarbaijan,False,0,0,395,0,0,0
+赞詹省,03.23,Zanjan,False,0,0,394,0,0,0
+古列斯坦省,03.23,Golestan,False,0,0,391,0,0,0
+阿尔达比勒省,03.23,Ardebil,False,0,0,289,0,0,0
+哈马丹省,03.23,Hamadan,False,0,0,243,0,0,0
+库尔德斯坦省,03.23,Kordestan,False,0,0,238,0,0,0
+伊拉姆省,03.23,Ilam,False,0,0,183,0,0,0
+南霍拉桑省,03.23,South Khorasan,False,0,0,178,0,0,0
+克尔曼沙省,03.23,Kermanshah,False,0,0,175,0,0,0
+克尔曼省,03.23,Kerman,False,0,0,169,0,0,0
+北霍拉桑省,03.23,North Khorasan,False,0,0,165,0,0,0
+霍尔木兹甘省,03.23,Hormozgan,False,0,0,148,0,0,0
+锡斯坦俾路支斯坦省,03.23,Sistan and Baluchestan,False,0,0,134,0,0,0
+科吉卢耶博韦艾哈迈德省,03.23,Kohgiluyeh and Buyer Ahmad,False,0,0,73,0,0,0
+恰马哈勒巴赫蒂亚里省,03.23,Chahar Mahall and Bakhtiari,False,0,0,68,0,0,0
+布什尔省,03.23,Bushehr,False,0,0,55,0,0,0

@@ -1,0 +1,23 @@
+name,date,nameMap,isUpdated,confirmAdd,confirmAddCut,confirm,suspect,dead,heal
+伦巴第,07.22,Lombardy,True,0,0,95582,0,16797,71775
+皮埃蒙特,07.22,Piemont,True,0,0,31545,0,4123,26609
+艾米利亚-罗马涅,07.22,Emilia-Romagna,True,0,0,29238,0,4279,23662
+威尼托,07.22,Veneto,True,0,0,19671,0,2053,16994
+托斯卡纳,07.22,Tuscany,True,0,0,10384,0,1131,8927
+利古里亚,07.22,Liguria,True,0,0,10117,0,1565,8362
+拉齐奥,07.22,Lazio,True,0,0,8456,0,853,6722
+马尔凯,07.22,Marche,True,0,0,6813,0,987,5682
+特伦蒂诺-上阿迪杰,07.22,Trentino-Alto Adige - Südtirol,True,0,0,4891,0,405,4464
+坎帕尼亚,07.22,Campania,True,0,0,4839,0,434,4108
+阿普利亚,07.22,Apulia,True,0,0,4556,0,548,3948
+弗留利-威尼斯-朱利亚,07.22,Friuli Venezia Giulia,True,0,0,3358,0,345,2914
+阿布鲁佐,07.22,Abruzzo,True,0,0,3344,0,470,2758
+西西里,07.22,Sicily,True,0,0,3146,0,283,2706
+博尔扎诺,07.22,Bolzano,True,0,0,2685,0,292,2294
+翁布里亚,07.22,Umbria,True,0,0,1459,0,80,1365
+撒丁岛,07.22,Sardinia,True,0,0,1379,0,134,1233
+卡拉布里亚,07.22,Calabria,True,0,0,1239,0,97,1071
+瓦莱达奥斯塔,07.22,Aosta Valley,True,0,0,1196,0,146,1049
+莫利塞,07.22,Molise,True,0,0,446,0,23,415
+巴西利卡塔,07.22,Basilicata,True,0,0,408,0,28,373
+地区待确认,03.30,,False,0,0,0,0,0,0
