@@ -35,19 +35,19 @@
 
 **数据：**
 
-![](.\成果图片\国内数据.png)
+![](https://raw.githubusercontent.com/Yi-27/SpiderAndVisualizeCOVID-19/main/%E6%88%90%E6%9E%9C%E5%9B%BE%E7%89%87/%E5%9B%BD%E5%86%85%E6%95%B0%E6%8D%AE.png)
 
-![](.\成果图片\外国数据.png)
+![](https://raw.githubusercontent.com/Yi-27/SpiderAndVisualizeCOVID-19/main/%E6%88%90%E6%9E%9C%E5%9B%BE%E7%89%87/%E5%A4%96%E5%9B%BD%E6%95%B0%E6%8D%AE.png)
 
 **可视化：**
 
-![image-20201117103627917](.\成果图片\全国每日累计数据.png)
+![](https://github.com/Yi-27/SpiderAndVisualizeCOVID-19/raw/main/%E6%88%90%E6%9E%9C%E5%9B%BE%E7%89%87/%E5%85%A8%E5%9B%BD%E6%AF%8F%E6%97%A5%E7%B4%AF%E8%AE%A1%E6%95%B0%E6%8D%AE.png)
 
-![image-20201117104353022](.\成果图片\全国累计境外输入.png)
+![](https://github.com/Yi-27/SpiderAndVisualizeCOVID-19/raw/main/%E6%88%90%E6%9E%9C%E5%9B%BE%E7%89%87/%E5%85%A8%E5%9B%BD%E7%B4%AF%E8%AE%A1%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5.png)
 
-![image-20201117103741560](.\成果图片\中国累计确诊.png)
+![](https://github.com/Yi-27/SpiderAndVisualizeCOVID-19/raw/main/%E6%88%90%E6%9E%9C%E5%9B%BE%E7%89%87/%E4%B8%AD%E5%9B%BD%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A.png)
 
-![](.\成果图片\美国07-15累计确诊.png)
+![](https://raw.githubusercontent.com/Yi-27/SpiderAndVisualizeCOVID-19/main/%E6%88%90%E6%9E%9C%E5%9B%BE%E7%89%87/%E7%BE%8E%E5%9B%BD07-15%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A.png)
 
-![](.\成果图片\世界07-22累计确诊.png)
+![](https://raw.githubusercontent.com/Yi-27/SpiderAndVisualizeCOVID-19/main/%E6%88%90%E6%9E%9C%E5%9B%BE%E7%89%87/%E4%B8%96%E7%95%8C07-22%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A.png)
 
